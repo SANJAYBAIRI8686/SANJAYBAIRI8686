@@ -10,12 +10,13 @@ I am a Data Analyst skilled in Excel, Python, SAS, Power BI, and AI Engineer; ex
  <b>->Programming Languages</b>: Python, Pandas, NUmpy, Matplotlib, Seaborn, Javascript, HTML, CSS<br>
  <b>->Machine Learning</b>     : scikit learn<br>
  <b>->DL & AI</b>              : TensorFlow, keras, Pytorch <br>
- <b>->Tools</b>                :  Powerbi, tableau, Ms Excel, Msword.<br>
+ <b>->Tools</b>                :  Powerbi, tableau, Jupyter Notebook, Spyder, Google Colab, AWS Cloud, IBM cloud, Ms Excel, Msword.<br>
 
  <h3><B>CERTIFICATIONS</B></h3><hr>
 
 
- 
+**->Generative AI**    :  Google Jan 2025<br>
+**->Large Language Models**   :   Google Feb 2025<br>
 **->SQL**              :  Great Learning, July 2022.<br>
 **->Python**         :  Kaggle, August 2022.<br>
 **->Data science**     :  Great Learning, August 2023.<br>
@@ -34,6 +35,10 @@ I am a Data Analyst skilled in Excel, Python, SAS, Power BI, and AI Engineer; ex
 
 <b>Code generation model using LLms.</b> <i> DeepLearning</i>
 <p>Developed a code generation model using Large Language Models (LLMs) to automatically generate source code from natural language prompts and existing code snippets. Collected and pre-processed a diverse dataset of Python code from GitHub, and fine-tuned a pre-trained LLM (Salesforce CodeGen) for enhanced code generation capabilities. Implemented a function to generate coherent and functional code snippets based on user-defined prompts.</p>
+
+<b>AI-Tools-Hub</b>
+<p>Built a responsive directory showcasing 200+ AI applications across 6 categories with advanced filtering, search, and a modern UI using React, CSS3 animations. Deployed on Netlify with full mobile responsiveness and accessibility.
+</p>
 
 
 
